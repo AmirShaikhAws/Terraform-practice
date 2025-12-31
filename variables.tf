@@ -15,6 +15,6 @@ variable "ec2_root_volume_size" {
 
 variable "env" {
   default = "dev"
-  type = string
-  
+  type    = string
+
 }
